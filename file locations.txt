@@ -1,0 +1,2 @@
+(dest=C:\Users\Feroz\.virtualenvs\EE-commerce-M1TskxOQ, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, via=copy, app_data_dir=C:\Users\Feroz\AppData\Local\pypa\virtualenv)
